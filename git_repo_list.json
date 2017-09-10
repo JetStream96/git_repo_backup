@@ -1,0 +1,70 @@
+{
+	"list": [{
+		"name": "runwayMagHeading",
+		"url": "https://github.com/JetStream96/runwayMagHeading.git"
+	},
+	{
+		"name": "QSimPlanner-doc",
+		"url": "https://github.com/JetStream96/QSimPlanner-doc.git"
+	},
+	{
+		"name": "TinyPass",
+		"url": "https://github.com/JetStream96/TinyPass.git"
+	},
+	{
+		"name": "MinMaxHeap",
+		"url": "https://github.com/JetStream96/MinMaxHeap.git"
+	},
+	{
+		"name": "big-int",
+		"url": "https://github.com/JetStream96/big-int.git"
+	},
+	{
+		"name": "mini-test",
+		"url": "https://github.com/JetStream96/mini-test.git"
+	},
+	{
+		"name": "code-dna",
+		"url": "https://github.com/JetStream96/code-dna.git"
+	},
+	{
+		"name": "volume-changer",
+		"url": "https://github.com/JetStream96/volume-changer.git"
+	},
+	{
+		"name": "sieve-of-Eratosthenes",
+		"url": "https://github.com/JetStream96/sieve-of-Eratosthenes.git"
+	},
+	{
+		"name": "QSimPlanner",
+		"url": "https://github.com/JetStream96/QSimPlanner.git"
+	},
+	{
+		"name": "racing-notes",
+		"url": "https://github.com/JetStream96/racing-notes.git"
+	},
+	{
+		"name": "qsimplanner.github.io",
+		"url": "https://github.com/qsimplanner/qsimplanner.github.io.git"
+	},
+	{
+		"name": "server-ip-tracker",
+		"url": "https://github.com/qsimplanner/server-ip-tracker.git"
+	},
+	{
+		"name": "BipedMatlab",
+		"url": "https://jetstream96@bitbucket.org/jetstream96/bipedmatlab.git"
+	},
+	{
+		"name": "Bookmarks",
+		"url": "https://jetstream96@bitbucket.org/jetstream96/bookmarks.git"
+	},
+	{
+		"name": "BipedControl",
+		"url": "https://jetstream96@bitbucket.org/jetstream96/bipedcontrol.git"
+	},
+	{
+		"name": "TubeRotatorV2",
+		"url": "https://jetstream96@bitbucket.org/jetstream96/tuberotatorv2.git"
+	}]
+}
