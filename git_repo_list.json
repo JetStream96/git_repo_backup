@@ -44,6 +44,10 @@
 		"url": "https://github.com/JetStream96/racing-notes.git"
 	},
 	{
+		"name": "git_repo_backup",
+		"url": "https://github.com/JetStream96/git_repo_backup.git"
+	},
+	{
 		"name": "qsimplanner.github.io",
 		"url": "https://github.com/qsimplanner/qsimplanner.github.io.git"
 	},
