@@ -29,20 +29,12 @@
 			"url": "https://github.com/JetStream96/code-dna.git"
 		},
 		{
-			"name": "volume-changer",
-			"url": "https://github.com/JetStream96/volume-changer.git"
-		},
-		{
 			"name": "sieve-of-Eratosthenes",
 			"url": "https://github.com/JetStream96/sieve-of-Eratosthenes.git"
 		},
 		{
 			"name": "QSimPlanner",
 			"url": "https://github.com/JetStream96/QSimPlanner.git"
-		},
-		{
-			"name": "racing-notes",
-			"url": "https://github.com/JetStream96/racing-notes.git"
 		},
 		{
 			"name": "git_repo_backup",
@@ -57,20 +49,12 @@
 			"url": "https://github.com/qsimplanner/server-ip-tracker.git"
 		},
 		{
-			"name": "BipedMatlab",
-			"url": "https://jetstream96@bitbucket.org/jetstream96/bipedmatlab.git"
-		},
-		{
 			"name": "Bookmarks",
 			"url": "https://jetstream96@bitbucket.org/jetstream96/bookmarks.git"
 		},
 		{
-			"name": "BipedControl",
-			"url": "https://jetstream96@bitbucket.org/jetstream96/bipedcontrol.git"
-		},
-		{
-			"name": "TubeRotatorV2",
-			"url": "https://jetstream96@bitbucket.org/jetstream96/tuberotatorv2.git"
+			"name": "manipulator_trjectory_generator",
+			"url": "https://github.com/JetStream96/manipulator_trajectory_generator.git"
 		}
 	]
 }
